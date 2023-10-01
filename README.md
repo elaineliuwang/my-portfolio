@@ -1,3 +1,3 @@
-# Portfolio: Elaine L. Wang
+# My Portfolio: Elaine L. Wang
 
-Inspired by TemplateMo's Reflux template
+https://elaineliuwang.github.io/my-portfolio
