@@ -34,9 +34,14 @@ textarea {
     outline: none;
 }
 
-a,
-a:hover {
+a {
+    color: #fff;
     text-decoration: none;
+}
+
+a:hover {
+    color:#939393;
+    text-decoration: underline;
 }
 
 p {
